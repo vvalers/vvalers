@@ -8,7 +8,6 @@ Soy desarrolladora enfocada en **Java, CSS y HTML**, con interés en crear proye
 - 🎨 Me gusta trabajar en interfaces limpias, responsivas y fáciles de usar.
 - 📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de programación.
 - 🌐 Interesada en accesibilidad, SEO y optimización de rendimiento.
-- 
 ---
  🛠️ Tecnologías y herramientas
 - **Lenguajes:** Java, HTML5, CSS3, JavaScript  
